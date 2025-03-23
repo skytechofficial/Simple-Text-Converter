@@ -1,0 +1,7 @@
+@font-face {
+    font-family: proxima;
+    src: url(./assets/Proxima\ Nova\ Alt\ Black\ Italic.otf);
+}
+.logo{
+    font-family: proxima;
+}
